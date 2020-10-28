@@ -1,3 +1,2 @@
-# webtemplate-starter
-Web Template Starter
-	-https://kyawmyoaung-dev.github.io/webstarterkit/
+# Web Starter Template
+- https://kyawmyoaung-dev.github.io/webstarterkit/
